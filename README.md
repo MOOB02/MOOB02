@@ -5,9 +5,10 @@
 
 ## Sobre mi
 
+- APRENDER A PROGRAMAR O MORIR EN EL INTENTO 😀👍
+
 <br>
 
-## Proyectos 
 </div>
                                                                                       
 </td>
