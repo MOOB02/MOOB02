@@ -23,5 +23,6 @@
 <p align="center">
 <a href="https://github.com/MOOB02">
   <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=MOOB02&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
+   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=MOOB02&repo=convoychat" />
 </a>
 </p>
