@@ -22,7 +22,8 @@
 
 <p align="center">
 <a href="https://github.com/MOOB02">
-  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=MOOB02&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=MOOB02&layout=compact&langs_count=8&theme=tokyonight"/>
+  ![](https://github-readme-stats.vercel.app/api?username=MOOB02&theme=tokyonight&hide_border=false&include_all_commits=true&count_private=false)<br/>
+  ![](https://github-readme-streak-stats.herokuapp.com/?user=MOOB02&theme=tokyonight&hide_border=false)<br/>
+  ![](https://github-readme-stats.vercel.app/api/top-langs/?username=MOOB02&theme=tokyonight&hide_border=false&include_all_commits=true&count_private=false&layout=compact)
 </a>
 </p>
